@@ -32,3 +32,4 @@ This template is meant to be a learning resource for the new users of Elympics, 
 - Synchronized randomization and map generation
 - Jumping
 - Simple pickups
+Test
